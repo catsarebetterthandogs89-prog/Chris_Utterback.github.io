@@ -1,1 +1,5 @@
-# Chris_Utterback.github.io
+# chris_utterback.github.io
+
+theme: jekyll-theme-minimal
+title: Chris's homepage
+description: Bookmark this to keep an eye on my project updates!
